@@ -1,7 +1,5 @@
 # data-analyst-sandesh
 # Data Wrangling Analysis
-! Picture1.png
-<img src="Picture1.png">
 
 ## Project Title: Implementation of Data Wrangling Analysis of City of Vancouver
 
@@ -70,7 +68,24 @@ City of Vancouver block numbers contain data sets which include zoning informati
 - **Automated & Scalable Workflow**: AWS services ensure minimal manual intervention and high performance.
 - **Better Urban Planning**: High-quality data supports infrastructure planning and predictive modeling.
 
----
+# Screenshots
+<img src="Picture20.png">
+<img src="Picture21.png">
+<img src="Picture21.png">
+<img src="Picture22.png">
+<img src="Picture23.png">
+<img src="Picture24.png">
+<img src="Picture21.png">
+<img src="Picture21.png">
+<img src="Picture21.png">
+<img src="Picture21.png">
+<img src="Picture21.png">
+<img src="Picture21.png">
+<img src="Picture21.png">
+
+
+
+
 
 # Data Quality Control Analysis
 
@@ -125,3 +140,4 @@ This project focuses on the following areas:
 - **Improved Data Quality**: Reduction in duplicate records and missing values for better planning and infrastructure management.
 - **Automated Monitoring**: Real-time alerts to flag data inconsistencies.
 - **Data-Driven Decision Making**: High-quality datasets enhance decision-making in urban development and resource allocation.
+- 
