@@ -75,13 +75,14 @@ City of Vancouver block numbers contain data sets which include zoning informati
 <img src="Picture22.png">
 <img src="Picture23.png">
 <img src="Picture24.png">
-<img src="Picture21.png">
-<img src="Picture21.png">
-<img src="Picture21.png">
-<img src="Picture21.png">
-<img src="Picture21.png">
-<img src="Picture21.png">
-<img src="Picture21.png">
+<img src="Picture25.png">
+<img src="Picture26.png">
+<img src="Picture27.png">
+<img src="Picture28.png">
+<img src="Picture29.png">
+<img src="Picture30.png">
+<img src="Picture31.png">
+<img src="Picture32.png">
 
 
 
