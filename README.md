@@ -141,4 +141,25 @@ This project focuses on the following areas:
 - **Improved Data Quality**: Reduction in duplicate records and missing values for better planning and infrastructure management.
 - **Automated Monitoring**: Real-time alerts to flag data inconsistencies.
 - **Data-Driven Decision Making**: High-quality datasets enhance decision-making in urban development and resource allocation.
+
+  # Screenshots
+<img src="Picture1.png">
+<img src="Picture2.png">
+<img src="Picture3.png">
+<img src="Picture4.png">
+<img src="Picture5.png">
+<img src="Picture6.png">
+<img src="Picture7.png">
+<img src="Picture8.png">
+<img src="Picture9.png">
+<img src="Picture10.png">
+<img src="Picture11.png">
+<img src="Picture12.png">
+<img src="Picture13.png">
+<img src="Picture14.png">
+<img src="Picture15.png">
+<img src="Picture16.png">
+<img src="Picture17.png">
+<img src="Picture18.png">
+<img src="Picture19.png">
 - 
